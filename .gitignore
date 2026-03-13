@@ -69,3 +69,6 @@ analysis/venv/
 
 # logs
 *.log
+
+#nul
+nul
