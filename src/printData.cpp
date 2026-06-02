@@ -1,21 +1,3 @@
-/*
- * Project myProject
- * Author: Your Name
- * Date:
- * For comprehensive documentation and examples, please visit:
- * https://docs.particle.io/firmware/best-practices/firmware-template/
- */
-
-
-// *Note*, build w device OS 5.6.0 to avoid memory overflow error 
-//
-// This example prints a wav file to the USB serial debugging port in hex
-// particle serial monitor | tee t1.hex
-//
-//replace the first two lines of the csv with a header:
-//timestamp,accX,accY,accZ
-
-
 
 #include "Particle.h"
 #include "adxl343.h"
