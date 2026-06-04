@@ -51,5 +51,4 @@ float compute_max(const float *data, int n);
 float compute_min(const float *data, int n);
 float compute_rms(const float *data, int n);
 
-
 #endif // FEATURES_H
